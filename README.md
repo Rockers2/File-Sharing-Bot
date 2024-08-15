@@ -39,7 +39,7 @@
 <summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/File-Sharing-Bot&branch=main&name=file-sharing-bot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Rockers2/File-Sharing-Bot&branch=main&name=file-sharing-bot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -47,7 +47,7 @@
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/File-Sharing-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Rockers2/File-Sharing-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
