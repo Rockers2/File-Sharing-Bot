@@ -28,8 +28,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 
 try:
-    ADMINS=[5071318754]
-    for x in (os.environ.get("ADMINS", "5071318754").split()):
+    ADMINS=[7085541484]
+    for x in (os.environ.get("ADMINS", "5115691197 6273945163 6103092779 5231212075").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
